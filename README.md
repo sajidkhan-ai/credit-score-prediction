@@ -26,26 +26,26 @@
 
 # Key Results
 
-Optimal default probability threshold: 0.12
+- Optimal default probability threshold: 0.12
 
-Profit improved from $1,200 → $31,500
+- Profit improved from $1,200 → $31,500
 
-Bad loan recall: 84%
+- Bad loan recall: 84%
 
-Logistic Regression outperformed Random Forest
+- Logistic Regression outperformed Random Forest
 
-Tech Stack
+# Tech Stack
 
-Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Key Takeaways
+# Key Takeaways
 
-Accuracy is not the right metric for credit risk
+- Accuracy is not the right metric for credit risk
 
-Business cost optimization is critical
+- Business cost optimization is critical
 
-Interpretable models can outperform complex ones
+- Interpretable models can outperform complex ones
 
-Author
+# Author
 
-Your Name
+- Sajid Khan
